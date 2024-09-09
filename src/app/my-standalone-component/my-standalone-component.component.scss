@@ -1,0 +1,10 @@
+:root {
+    --md-sys-color-primary: #6200ee;
+    --md-sys-color-on-primary: #ffffff;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
